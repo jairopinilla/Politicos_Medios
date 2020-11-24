@@ -1,0 +1,2960 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-11-17">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Partido" type="string" />
+      <attribute id="1" title="Cargo" type="string" />
+      <attribute id="2" title="Tipo" type="string" />
+      <attribute id="3" title="InDegree" type="long" />
+      <attribute id="4" title="OutDegree" type="long" />
+      <attribute id="5" title="PageRank" type="double" />
+      <attribute id="6" title="closeness_centrality" type="double" />
+      <attribute id="7" title="betweenness_centrality" type="double" />
+      <attribute id="8" title="IMW" type="string" />
+    </attributes>
+    <nodes>
+      <node id="nacioncl" label="nacioncl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="136" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0010245860241550513" />
+          <attvalue for="6" value="0.14229404808829324" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="esperanzafm" label="esperanzafm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="125" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="patagondomingo" label="patagondomingo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="14" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="adnradiochile" label="adnradiochile">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="293" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0.005657958809569987" />
+          <attvalue for="6" value="0.2660280029476787" />
+          <attvalue for="7" value="0.0038844690418540296" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="ufromedios" label="ufromedios">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="20" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0019356719779174867" />
+          <attvalue for="6" value="0.11268221119330772" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="rockandpop" label="rockandpop">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="12" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radioisadorafm" label="radioisadorafm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="17" />
+          <attvalue for="4" value="157" />
+          <attvalue for="5" value="0.0008992275491108831" />
+          <attvalue for="6" value="0.10677966101694915" />
+          <attvalue for="7" value="0.006117452630769819" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="buenosdiascurac" label="buenosdiascurac">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="909" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="soyvaldiviacl" label="soyvaldiviacl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="29" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0.002559145168599793" />
+          <attvalue for="6" value="0.1313567370064545" />
+          <attvalue for="7" value="3.900995426419156e-05" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="clave9cl" label="clave9cl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="58" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0.0013460320454461942" />
+          <attvalue for="6" value="0.11455831181950836" />
+          <attvalue for="7" value="0.008706458101131225" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radiogenialfm" label="radiogenialfm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="31" />
+          <attvalue for="5" value="0.0014250276705162334" />
+          <attvalue for="6" value="0.06336375488917861" />
+          <attvalue for="7" value="0.002986759675621668" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="ellongino" label="ellongino">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.001274083215273155" />
+          <attvalue for="6" value="0.12800510602084958" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="uchileradio" label="uchileradio">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="27" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0.0015141920164375453" />
+          <attvalue for="6" value="0.19785643070787637" />
+          <attvalue for="7" value="0.005025311173702733" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="elrancaguino" label="elrancaguino">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="26" />
+          <attvalue for="4" value="28" />
+          <attvalue for="5" value="0.003991707733620999" />
+          <attvalue for="6" value="0.13682275208273484" />
+          <attvalue for="7" value="0.03286807949727353" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="dfinanciero" label="dfinanciero">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="46" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0.001460147881658533" />
+          <attvalue for="6" value="0.23020558097570407" />
+          <attvalue for="7" value="0.03882337850601428" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="tvnvalparaiso" label="tvnvalparaiso">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0.0012702426305757815" />
+          <attvalue for="6" value="0.1912924732910274" />
+          <attvalue for="7" value="0.006286683357766029" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radiocarab" label="radiocarab">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="18" />
+          <attvalue for="4" value="16" />
+          <attvalue for="5" value="0.002092885075780319" />
+          <attvalue for="6" value="0.17859607019649018" />
+          <attvalue for="7" value="0.03732780440666984" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="canal_21tv" label="canal_21tv">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="19" />
+          <attvalue for="4" value="47" />
+          <attvalue for="5" value="0.0009453652441916428" />
+          <attvalue for="6" value="0.10696831766185542" />
+          <attvalue for="7" value="0.007017371920519619" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="temuco" label="temuco">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="24" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="publimetrochile" label="publimetrochile">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="147" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0027010171147664325" />
+          <attvalue for="6" value="0.2196999665277059" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="temucodiario" label="temucodiario">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0011378713066814965" />
+          <attvalue for="6" value="0.09719847605713439" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="tv4television" label="tv4television">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="105" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="araucaniacuenta" label="araucaniacuenta">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="31" />
+          <attvalue for="5" value="0.000818273323454547" />
+          <attvalue for="6" value="0.003389830508474576" />
+          <attvalue for="7" value="4.612014297244321e-05" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radio_carinosa" label="radio_carinosa">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0008210083949925439" />
+          <attvalue for="6" value="0.1077226068274051" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="cronicachillan" label="cronicachillan">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="33" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.001059265248719104" />
+          <attvalue for="6" value="0.10819883409012572" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="eldesconcierto" label="eldesconcierto">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="173" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0.003381205399995355" />
+          <attvalue for="6" value="0.19039015030380557" />
+          <attvalue for="7" value="0.009434204674605918" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radioprensa" label="radioprensa">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="112" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0.0011036807657881207" />
+          <attvalue for="6" value="0.1265288773178896" />
+          <attvalue for="7" value="0.0024493639263615053" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radiovalparaiso" label="radiovalparaiso">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="42" />
+          <attvalue for="4" value="210" />
+          <attvalue for="5" value="0.0015989684017028436" />
+          <attvalue for="6" value="0.12909182899064" />
+          <attvalue for="7" value="0.020904007595463837" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radio_austral" label="radio_austral">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="1470" />
+          <attvalue for="5" value="0.0008933365504365622" />
+          <attvalue for="6" value="0.003389830508474576" />
+          <attvalue for="7" value="0.0027441485068603715" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="tarapaca_online" label="tarapaca_online">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="821" />
+          <attvalue for="5" value="0.0008035143887213844" />
+          <attvalue for="6" value="0.08793619142572284" />
+          <attvalue for="7" value="0.005345251363930018" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="ucvradio" label="ucvradio">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="79" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0.0018976787826138072" />
+          <attvalue for="6" value="0.1404734751661489" />
+          <attvalue for="7" value="0.0121053204709379" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="emol" label="emol">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="29" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.002163685374555581" />
+          <attvalue for="6" value="0.19674096681018038" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radiobravissima" label="radiobravissima">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="28" />
+          <attvalue for="4" value="15" />
+          <attvalue for="5" value="0.0008696544426352391" />
+          <attvalue for="6" value="0.12060571274225133" />
+          <attvalue for="7" value="0.04214958370095" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="elsoldeiquique" label="elsoldeiquique">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="125" />
+          <attvalue for="5" value="0.0010159972409687296" />
+          <attvalue for="6" value="0.10184031589000869" />
+          <attvalue for="7" value="0.03374486867655323" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="diariopenquista" label="diariopenquista">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="0.0008216697123871282" />
+          <attvalue for="6" value="0.1327720785013381" />
+          <attvalue for="7" value="0.007390711732634944" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="elmercurio_cl" label="elmercurio_cl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="25" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0025398559709790764" />
+          <attvalue for="6" value="0.21508212024854867" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="tvbiobio" label="tvbiobio">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="42" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="el_dinamo" label="el_dinamo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0010147887565145563" />
+          <attvalue for="6" value="0.15668742811258923" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radionuble" label="radionuble">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="38" />
+          <attvalue for="4" value="366" />
+          <attvalue for="5" value="0.001578738388181182" />
+          <attvalue for="6" value="0.12786497950709644" />
+          <attvalue for="7" value="0.06856882762624722" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="rioenlinea" label="rioenlinea">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="801" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0025118670971223454" />
+          <attvalue for="6" value="0.12567521014193192" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radio_festival" label="radio_festival">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="87" />
+          <attvalue for="4" value="190" />
+          <attvalue for="5" value="0.0021529559823838204" />
+          <attvalue for="6" value="0.1383864406779661" />
+          <attvalue for="7" value="0.03328527567977584" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radiorancagua" label="radiorancagua">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="30" />
+          <attvalue for="5" value="0.0010426998811472572" />
+          <attvalue for="6" value="0.11295535036681001" />
+          <attvalue for="7" value="0.0009410874301915464" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radiomiradorfm" label="radiomiradorfm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0.0008576439165443864" />
+          <attvalue for="6" value="0.08226096168017687" />
+          <attvalue for="7" value="0.002140230856937879" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="congresofm" label="congresofm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="52" />
+          <attvalue for="5" value="0.001954641299257446" />
+          <attvalue for="6" value="0.13918176504967855" />
+          <attvalue for="7" value="0.02717106912713969" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="eltipografo" label="eltipografo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="58" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0.0018377933474839493" />
+          <attvalue for="6" value="0.13176075690230724" />
+          <attvalue for="7" value="0.007653368480936796" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="lun" label="lun">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="39" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0.0017497806177413004" />
+          <attvalue for="6" value="0.2250708840022683" />
+          <attvalue for="7" value="0.023438614244563744" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="biobio" label="biobio">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="559" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.01317202348183555" />
+          <attvalue for="6" value="0.3159272183449651" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="thecliniccl" label="thecliniccl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="89" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0029715665342022247" />
+          <attvalue for="6" value="0.1959816272260872" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="eo_enlinea" label="eo_enlinea">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="24" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.0011789864104382788" />
+          <attvalue for="6" value="0.12759550642067477" />
+          <attvalue for="7" value="0.013694854858811967" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="sancarlosonline" label="sancarlosonline">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="63" />
+          <attvalue for="5" value="0.0008014740317521405" />
+          <attvalue for="6" value="0.09187263702065276" />
+          <attvalue for="7" value="0.00037587916522541215" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="araucanianews" label="araucanianews">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="25" />
+          <attvalue for="4" value="66" />
+          <attvalue for="5" value="0.0017002191201759315" />
+          <attvalue for="6" value="0.10998014131990949" />
+          <attvalue for="7" value="0.01507583743747701" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radiolasnieves" label="radiolasnieves">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0010012649226116082" />
+          <attvalue for="6" value="0.058272800645681994" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="panguipuiii" label="panguipuiii">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="20" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0008069367205757525" />
+          <attvalue for="6" value="0.004519774011299434" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="elcomunicadorcl" label="elcomunicadorcl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="18" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="0.0008193106520423368" />
+          <attvalue for="6" value="0.1348420218187309" />
+          <attvalue for="7" value="0.004939082977823898" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radiosantamaria" label="radiosantamaria">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="0.0014765505170616189" />
+          <attvalue for="6" value="0.07019602063375092" />
+          <attvalue for="7" value="0.010711883623505884" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="primordialfm" label="primordialfm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="181" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="diarioelhuemul" label="diarioelhuemul">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="0.000842898440767096" />
+          <attvalue for="6" value="0.06876100828689401" />
+          <attvalue for="7" value="0.002319458856989127" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="parativaldivia" label="parativaldivia">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="enfasis95_5fm" label="enfasis95_5fm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="37" />
+          <attvalue for="5" value="0.000959585650308164" />
+          <attvalue for="6" value="0.11953419110880585" />
+          <attvalue for="7" value="0.007365771167223951" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="araucaniadiario" label="araucaniadiario">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="28" />
+          <attvalue for="5" value="0.0009400305272444897" />
+          <attvalue for="6" value="0.094158736853204" />
+          <attvalue for="7" value="0.0025683154617779317" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="portaldemeli" label="portaldemeli">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="604" />
+          <attvalue for="5" value="0.0011634564603869762" />
+          <attvalue for="6" value="0.14986155395200537" />
+          <attvalue for="7" value="0.1266060491579343" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="elperiodicocl" label="elperiodicocl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="11" />
+          <attvalue for="5" value="0.0019678208696186925" />
+          <attvalue for="6" value="0.09733772957654369" />
+          <attvalue for="7" value="0.009179189566598767" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radiopaulina" label="radiopaulina">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="775" />
+          <attvalue for="5" value="0.0012544570082088091" />
+          <attvalue for="6" value="0.1352940062494082" />
+          <attvalue for="7" value="0.0885132384942139" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="ddivisadero" label="ddivisadero">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="0.0015382762631560014" />
+          <attvalue for="6" value="0.06336375488917861" />
+          <attvalue for="7" value="0.0007955724662746461" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="lacuarta" label="lacuarta">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="74" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.001682113006104612" />
+          <attvalue for="6" value="0.19061196472886632" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="gamba_cl" label="gamba_cl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0008769720992766062" />
+          <attvalue for="6" value="0.1343280805224283" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="serenaycoquimbo" label="serenaycoquimbo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="41" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="cooperativa" label="cooperativa">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="671" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0.008444527892894104" />
+          <attvalue for="6" value="0.2796492738873449" />
+          <attvalue for="7" value="0.014001663619442934" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="diarioenaccion" label="diarioenaccion">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="171" />
+          <attvalue for="5" value="0.0007976387011053604" />
+          <attvalue for="6" value="0.004519774011299434" />
+          <attvalue for="7" value="0.002107690533840655" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="radiocontigofm" label="radiocontigofm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="0.0008393346740239484" />
+          <attvalue for="6" value="0.10687390608404265" />
+          <attvalue for="7" value="0.011730658365040938" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="diariofutrono" label="diariofutrono">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="21" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0008109016029551441" />
+          <attvalue for="6" value="0.007627118644067796" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM0" />
+        </attvalues>
+      </node>
+      <node id="elmostrador" label="elmostrador">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="548" />
+          <attvalue for="4" value="26" />
+          <attvalue for="5" value="0.006697525813895115" />
+          <attvalue for="6" value="0.2116925447433922" />
+          <attvalue for="7" value="0.07428817867247478" />
+          <attvalue for="8" value="CMM1" />
+        </attvalues>
+      </node>
+      <node id="radiolaclave" label="radiolaclave">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="343" />
+          <attvalue for="5" value="0.002166792178163967" />
+          <attvalue for="6" value="0.15974688072984214" />
+          <attvalue for="7" value="8.397709366232369e-05" />
+          <attvalue for="8" value="CMM1" />
+        </attvalues>
+      </node>
+      <node id="viax" label="viax">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="30" />
+          <attvalue for="4" value="46" />
+          <attvalue for="5" value="0.00667334697097521" />
+          <attvalue for="6" value="0.18208742194469224" />
+          <attvalue for="7" value="0.0007568507629040318" />
+          <attvalue for="8" value="CMM1" />
+        </attvalues>
+      </node>
+      <node id="diario30" label="diario30">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="14" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM1" />
+        </attvalues>
+      </node>
+      <node id="interferenciacl" label="interferenciacl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="118" />
+          <attvalue for="4" value="37" />
+          <attvalue for="5" value="0.008895170870239244" />
+          <attvalue for="6" value="0.2181768208886853" />
+          <attvalue for="7" value="0.13032285824658707" />
+          <attvalue for="8" value="CMM1" />
+        </attvalues>
+      </node>
+      <node id="laprensaustral" label="laprensaustral">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0017578011979516315" />
+          <attvalue for="6" value="0.1110779661016949" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM2" />
+        </attvalues>
+      </node>
+      <node id="pinguinodiario" label="pinguinodiario">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="0.0011459088021277756" />
+          <attvalue for="6" value="0.11766356496637585" />
+          <attvalue for="7" value="3.4590107229332414e-05" />
+          <attvalue for="8" value="CMM2" />
+        </attvalues>
+      </node>
+      <node id="radio_amiga" label="radio_amiga">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="18" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM2" />
+        </attvalues>
+      </node>
+      <node id="oasisfmchile" label="oasisfmchile">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="0.003589268760129921" />
+          <attvalue for="6" value="0.2170038272279934" />
+          <attvalue for="7" value="0.015823738696447102" />
+          <attvalue for="8" value="CMM3" />
+        </attvalues>
+      </node>
+      <node id="t13" label="t13">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="1322" />
+          <attvalue for="4" value="60" />
+          <attvalue for="5" value="0.03913957093308755" />
+          <attvalue for="6" value="0.2527936024910654" />
+          <attvalue for="7" value="0.008616066281234043" />
+          <attvalue for="8" value="CMM3" />
+        </attvalues>
+      </node>
+      <node id="canal_13c" label="canal_13c">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="33" />
+          <attvalue for="5" value="0.0011070379847304178" />
+          <attvalue for="6" value="0.10706289619206043" />
+          <attvalue for="7" value="0.002450352215139486" />
+          <attvalue for="8" value="CMM3" />
+        </attvalues>
+      </node>
+      <node id="t13concepcion" label="t13concepcion">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="39" />
+          <attvalue for="4" value="451" />
+          <attvalue for="5" value="0.01717901376651063" />
+          <attvalue for="6" value="0.21280867415328705" />
+          <attvalue for="7" value="0.029893676598968872" />
+          <attvalue for="8" value="CMM3" />
+        </attvalues>
+      </node>
+      <node id="sonarfm" label="sonarfm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="0.004079072006940804" />
+          <attvalue for="6" value="0.19785643070787637" />
+          <attvalue for="7" value="0.0052115761558860834" />
+          <attvalue for="8" value="CMM3" />
+        </attvalues>
+      </node>
+      <node id="tele13_radio" label="tele13_radio">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="84" />
+          <attvalue for="4" value="231" />
+          <attvalue for="5" value="0.01780095522545082" />
+          <attvalue for="6" value="0.22976875824140483" />
+          <attvalue for="7" value="0.016730285645021024" />
+          <attvalue for="8" value="CMM3" />
+        </attvalues>
+      </node>
+      <node id="tvunoticias" label="tvunoticias">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="127" />
+          <attvalue for="4" value="977" />
+          <attvalue for="5" value="0.00618510108153031" />
+          <attvalue for="6" value="0.16701811805961425" />
+          <attvalue for="7" value="0.016604528009751113" />
+          <attvalue for="8" value="CMM4" />
+        </attvalues>
+      </node>
+      <node id="diarioconce" label="diarioconce">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="248" />
+          <attvalue for="4" value="105" />
+          <attvalue for="5" value="0.006871025191321601" />
+          <attvalue for="6" value="0.15308234588270586" />
+          <attvalue for="7" value="3.209193281832507e-05" />
+          <attvalue for="8" value="CMM4" />
+        </attvalues>
+      </node>
+      <node id="tvu_television" label="tvu_television">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="1014" />
+          <attvalue for="4" value="269" />
+          <attvalue for="5" value="0.013837582792620647" />
+          <attvalue for="6" value="0.17151293993373987" />
+          <attvalue for="7" value="0.004420931407268315" />
+          <attvalue for="8" value="CMM4" />
+        </attvalues>
+      </node>
+      <node id="ladiscusioncl" label="ladiscusioncl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="172" />
+          <attvalue for="4" value="48" />
+          <attvalue for="5" value="0.005401291416146006" />
+          <attvalue for="6" value="0.16209924443536858" />
+          <attvalue for="7" value="0.0035018365699790804" />
+          <attvalue for="8" value="CMM4" />
+        </attvalues>
+      </node>
+      <node id="radioudec" label="radioudec">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="150" />
+          <attvalue for="4" value="295" />
+          <attvalue for="5" value="0.006153337270151291" />
+          <attvalue for="6" value="0.16497021197986425" />
+          <attvalue for="7" value="0.02752299144032108" />
+          <attvalue for="8" value="CMM4" />
+        </attvalues>
+      </node>
+      <node id="tvnredohiggins" label="tvnredohiggins">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="139" />
+          <attvalue for="4" value="21" />
+          <attvalue for="5" value="0.007065103319154014" />
+          <attvalue for="6" value="0.20282769781108934" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM5" />
+        </attvalues>
+      </node>
+      <node id="tvn" label="tvn">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="769" />
+          <attvalue for="4" value="3258" />
+          <attvalue for="5" value="0.042848957800877704" />
+          <attvalue for="6" value="0.2543868394815553" />
+          <attvalue for="7" value="0.03586175367479415" />
+          <attvalue for="8" value="CMM5" />
+        </attvalues>
+      </node>
+      <node id="tvnredbiobio" label="tvnredbiobio">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="172" />
+          <attvalue for="4" value="301" />
+          <attvalue for="5" value="0.007932319236088226" />
+          <attvalue for="6" value="0.21393663532371085" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM5" />
+        </attvalues>
+      </node>
+      <node id="tvnredcoquimbo" label="tvnredcoquimbo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="332" />
+          <attvalue for="4" value="293" />
+          <attvalue for="5" value="0.015435642436393185" />
+          <attvalue for="6" value="0.20147776305028342" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM5" />
+        </attvalues>
+      </node>
+      <node id="tvnredatacama" label="tvnredatacama">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="0.0009373456577291307" />
+          <attvalue for="6" value="0.1843046203854191" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM5" />
+        </attvalues>
+      </node>
+      <node id="24horastvn" label="24horastvn">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="4237" />
+          <attvalue for="4" value="1303" />
+          <attvalue for="5" value="0.06739884102608426" />
+          <attvalue for="6" value="0.2570873367159668" />
+          <attvalue for="7" value="0.02864754510897714" />
+          <attvalue for="8" value="CMM5" />
+        </attvalues>
+      </node>
+      <node id="conciertoradio" label="conciertoradio">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="0.0009094583775375105" />
+          <attvalue for="6" value="0.003389830508474576" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM5" />
+        </attvalues>
+      </node>
+      <node id="redaraucania" label="redaraucania">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.005331618310828047" />
+          <attvalue for="6" value="0.12059166876006679" />
+          <attvalue for="7" value="4.0355125100887815e-05" />
+          <attvalue for="8" value="CMM6" />
+        </attvalues>
+      </node>
+      <node id="redbiobio" label="redbiobio">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM6" />
+        </attvalues>
+      </node>
+      <node id="redarica" label="redarica">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.00698988846830502" />
+          <attvalue for="6" value="0.14605981422153813" />
+          <attvalue for="7" value="0.0005734271109573778" />
+          <attvalue for="8" value="CMM6" />
+        </attvalues>
+      </node>
+      <node id="red_coquimbo" label="red_coquimbo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.00835170822080965" />
+          <attvalue for="6" value="0.1431870021405762" />
+          <attvalue for="7" value="1.9216726238518006e-05" />
+          <attvalue for="8" value="CMM6" />
+        </attvalues>
+      </node>
+      <node id="redloslagos" label="redloslagos">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM6" />
+        </attvalues>
+      </node>
+      <node id="redvalparaiso" label="redvalparaiso">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM6" />
+        </attvalues>
+      </node>
+      <node id="red_ohiggins" label="red_ohiggins">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="22" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="0.015244917354195883" />
+          <attvalue for="6" value="0.17203811451218484" />
+          <attvalue for="7" value="0.0035285752719166753" />
+          <attvalue for="8" value="CMM6" />
+        </attvalues>
+      </node>
+      <node id="redantofagasta" label="redantofagasta">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM6" />
+        </attvalues>
+      </node>
+      <node id="redatacama" label="redatacama">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM6" />
+        </attvalues>
+      </node>
+      <node id="redmaule" label="redmaule">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="61" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0.02664551254829355" />
+          <attvalue for="6" value="0.14590574268754916" />
+          <attvalue for="7" value="0.0025788846612091166" />
+          <attvalue for="8" value="CMM6" />
+        </attvalues>
+      </node>
+      <node id="redtarapaca" label="redtarapaca">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.0008035143887213844" />
+          <attvalue for="6" value="0.0887403055518" />
+          <attvalue for="7" value="0.00013912909796687034" />
+          <attvalue for="8" value="CMM6" />
+        </attvalues>
+      </node>
+      <node id="redlosrios" label="redlosrios">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM6" />
+        </attvalues>
+      </node>
+      <node id="agriculturafm" label="agriculturafm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="372" />
+          <attvalue for="4" value="26" />
+          <attvalue for="5" value="0.00807666568849391" />
+          <attvalue for="6" value="0.18949629983289568" />
+          <attvalue for="7" value="0.011715614413642782" />
+          <attvalue for="8" value="CMM7" />
+        </attvalues>
+      </node>
+      <node id="carta_abierta" label="carta_abierta">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="137" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM7" />
+        </attvalues>
+      </node>
+      <node id="elliberocl" label="elliberocl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="138" />
+          <attvalue for="4" value="197" />
+          <attvalue for="5" value="0.008004438346630295" />
+          <attvalue for="6" value="0.15746181481563112" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM7" />
+        </attvalues>
+      </node>
+      <node id="cambio21cl" label="cambio21cl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0008663554212236425" />
+          <attvalue for="6" value="0.07769706752757599" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM8" />
+        </attvalues>
+      </node>
+      <node id="elnortero" label="elnortero">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="14" />
+          <attvalue for="5" value="0.0015119944869929056" />
+          <attvalue for="6" value="0.11306081754735793" />
+          <attvalue for="7" value="0.018051780841472995" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="elmorrocotudo" label="elmorrocotudo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="16" />
+          <attvalue for="4" value="47" />
+          <attvalue for="5" value="0.0024310901033323088" />
+          <attvalue for="6" value="0.12243491971003068" />
+          <attvalue for="7" value="0.06385948800165331" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="elparadiario14" label="elparadiario14">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="11" />
+          <attvalue for="5" value="0.001173677650081346" />
+          <attvalue for="6" value="0.10640433707664353" />
+          <attvalue for="7" value="0.008693290068246831" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="elobservatodo" label="elobservatodo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="146" />
+          <attvalue for="4" value="59" />
+          <attvalue for="5" value="0.009639106177259616" />
+          <attvalue for="6" value="0.12587124282039536" />
+          <attvalue for="7" value="0.030798079791507674" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="elboyaldia" label="elboyaldia">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="17" />
+          <attvalue for="5" value="0.0017674483170927718" />
+          <attvalue for="6" value="0.11369777989973742" />
+          <attvalue for="7" value="0.0012347021132908368" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="eldia_cl" label="eldia_cl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="21" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0022630189252520506" />
+          <attvalue for="6" value="0.1177794815745257" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="rsbchile" label="rsbchile">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="31" />
+          <attvalue for="4" value="25" />
+          <attvalue for="5" value="0.0023562225058239078" />
+          <attvalue for="6" value="0.12368553176018421" />
+          <attvalue for="7" value="0.030685460624927947" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="miradiols" label="miradiols">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="39" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="0.0027679814221664243" />
+          <attvalue for="6" value="0.16610169491525423" />
+          <attvalue for="7" value="0.005312628683434633" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="elquiglobal" label="elquiglobal">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="2" />
+          <attvalue for="5" value="0.0032771559300025076" />
+          <attvalue for="6" value="0.11359112156962509" />
+          <attvalue for="7" value="0.004811868250124909" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="montecarlocl" label="montecarlocl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="131" />
+          <attvalue for="5" value="0.0022493618626501484" />
+          <attvalue for="6" value="0.11191140073310567" />
+          <attvalue for="7" value="0.011135818330560635" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="elqhaydecierto" label="elqhaydecierto">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="17" />
+          <attvalue for="5" value="0.0013496111706471586" />
+          <attvalue for="6" value="0.11316648186282276" />
+          <attvalue for="7" value="0.01984813295778359" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="elrepuertero" label="elrepuertero">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="22" />
+          <attvalue for="5" value="0.001636704090141006" />
+          <attvalue for="6" value="0.11445003364198521" />
+          <attvalue for="7" value="0.04377661745354587" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="elamaule" label="elamaule">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="11" />
+          <attvalue for="5" value="0.0018996047925430243" />
+          <attvalue for="6" value="0.12280743974971638" />
+          <attvalue for="7" value="0.00824361867426551" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="elrancahuaso" label="elrancahuaso">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="15" />
+          <attvalue for="5" value="0.0012643772983248621" />
+          <attvalue for="6" value="0.1310477657935285" />
+          <attvalue for="7" value="0.048003739729786075" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="elmartutino" label="elmartutino">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="20" />
+          <attvalue for="4" value="35" />
+          <attvalue for="5" value="0.0019029888417781784" />
+          <attvalue for="6" value="0.1306236629916077" />
+          <attvalue for="7" value="0.02951121799271229" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="elconcecuente" label="elconcecuente">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="14" />
+          <attvalue for="5" value="0.0012642972086927334" />
+          <attvalue for="6" value="0.12072595772006017" />
+          <attvalue for="7" value="0.0004383335255005956" />
+          <attvalue for="8" value="CMM9" />
+        </attvalues>
+      </node>
+      <node id="infinitafm" label="infinitafm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="81" />
+          <attvalue for="4" value="542" />
+          <attvalue for="5" value="0.013015412847719466" />
+          <attvalue for="6" value="0.16059434428809063" />
+          <attvalue for="7" value="0.008017547616302374" />
+          <attvalue for="8" value="CMM10" />
+        </attvalues>
+      </node>
+      <node id="meganoticiascl" label="meganoticiascl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="877" />
+          <attvalue for="4" value="99" />
+          <attvalue for="5" value="0.018007912762876138" />
+          <attvalue for="6" value="0.21318333731200764" />
+          <attvalue for="7" value="0.007390752911334025" />
+          <attvalue for="8" value="CMM10" />
+        </attvalues>
+      </node>
+      <node id="megapluscl" label="megapluscl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="165" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0.006844429280247048" />
+          <attvalue for="6" value="0.16080761698966844" />
+          <attvalue for="7" value="1.1530035743110804e-05" />
+          <attvalue for="8" value="CMM10" />
+        </attvalues>
+      </node>
+      <node id="cdf_cl" label="cdf_cl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="136" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.003554019916906755" />
+          <attvalue for="6" value="0.19150685658205352" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM11" />
+        </attvalues>
+      </node>
+      <node id="diarioafta" label="diarioafta">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="0.0015079220482542577" />
+          <attvalue for="6" value="0.10668558202045846" />
+          <attvalue for="7" value="0.0008290095699296671" />
+          <attvalue for="8" value="CMM11" />
+        </attvalues>
+      </node>
+      <node id="laestrellavalpo" label="laestrellavalpo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="43" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.014500450871669191" />
+          <attvalue for="6" value="0.18819685521748006" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM12" />
+        </attvalues>
+      </node>
+      <node id="laestrelladeqta" label="laestrelladeqta">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="18" />
+          <attvalue for="5" value="0.0009988974825043127" />
+          <attvalue for="6" value="0.11687954284234212" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM12" />
+        </attvalues>
+      </node>
+      <node id="mercuriovalpo" label="mercuriovalpo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="48" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="0.014880586582201264" />
+          <attvalue for="6" value="0.18905100130772584" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM12" />
+        </attvalues>
+      </node>
+      <node id="radiosago" label="radiosago">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="21" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="0.0023910295902098925" />
+          <attvalue for="6" value="0.09982533849399863" />
+          <attvalue for="7" value="0.036054531578571705" />
+          <attvalue for="8" value="CMM13" />
+        </attvalues>
+      </node>
+      <node id="soychiloe" label="soychiloe">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="160" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0.003269769797364769" />
+          <attvalue for="6" value="0.13312670266390433" />
+          <attvalue for="7" value="0.000265154218803475" />
+          <attvalue for="8" value="CMM13" />
+        </attvalues>
+      </node>
+      <node id="radioquellon" label="radioquellon">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="15" />
+          <attvalue for="4" value="238" />
+          <attvalue for="5" value="0.0012145320488535023" />
+          <attvalue for="6" value="0.07678385262727987" />
+          <attvalue for="7" value="0.01708751297129021" />
+          <attvalue for="8" value="CMM13" />
+        </attvalues>
+      </node>
+      <node id="vozdelacosta" label="vozdelacosta">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="2" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="0.0008523291159672231" />
+          <attvalue for="6" value="0.07678385262727987" />
+          <attvalue for="7" value="7.686690495407202e-06" />
+          <attvalue for="8" value="CMM13" />
+        </attvalues>
+      </node>
+      <node id="inettvdigital" label="inettvdigital">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="47" />
+          <attvalue for="5" value="0.0015405869977031341" />
+          <attvalue for="6" value="0.08717648350843797" />
+          <attvalue for="7" value="0.03892898779097327" />
+          <attvalue for="8" value="CMM13" />
+        </attvalues>
+      </node>
+      <node id="soyosorno" label="soyosorno">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="101" />
+          <attvalue for="4" value="12" />
+          <attvalue for="5" value="0.00750951435745622" />
+          <attvalue for="6" value="0.155065744470624" />
+          <attvalue for="7" value="0.004632214736849811" />
+          <attvalue for="8" value="CMM14" />
+        </attvalues>
+      </node>
+      <node id="soypuertomontt" label="soypuertomontt">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="123" />
+          <attvalue for="5" value="0.00680347714035808" />
+          <attvalue for="6" value="0.15266958506379316" />
+          <attvalue for="7" value="0.0014742157287989171" />
+          <attvalue for="8" value="CMM14" />
+        </attvalues>
+      </node>
+      <node id="portalesdevalpo" label="portalesdevalpo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="37" />
+          <attvalue for="4" value="229" />
+          <attvalue for="5" value="0.0035952525617391007" />
+          <attvalue for="6" value="0.13918176504967855" />
+          <attvalue for="7" value="0.03027022377420163" />
+          <attvalue for="8" value="CMM15" />
+        </attvalues>
+      </node>
+      <node id="radioportales" label="radioportales">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="113" />
+          <attvalue for="4" value="19" />
+          <attvalue for="5" value="0.002907678915974376" />
+          <attvalue for="6" value="0.17298305084745763" />
+          <attvalue for="7" value="0.06851087758213324" />
+          <attvalue for="8" value="CMM15" />
+        </attvalues>
+      </node>
+      <node id="rnuevomundo" label="rnuevomundo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="18" />
+          <attvalue for="4" value="314" />
+          <attvalue for="5" value="0.0030947774111058798" />
+          <attvalue for="6" value="0.01059322033898305" />
+          <attvalue for="7" value="0.005872375315474588" />
+          <attvalue for="8" value="CMM16" />
+        </attvalues>
+      </node>
+      <node id="elsiglochile" label="elsiglochile">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="72" />
+          <attvalue for="4" value="3" />
+          <attvalue for="5" value="0.001399793786105037" />
+          <attvalue for="6" value="0.007062146892655367" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM16" />
+        </attvalues>
+      </node>
+      <node id="cronica_digital" label="cronica_digital">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="60" />
+          <attvalue for="4" value="14" />
+          <attvalue for="5" value="0.0012992624197260096" />
+          <attvalue for="6" value="0.007062146892655367" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM16" />
+        </attvalues>
+      </node>
+      <node id="soycalamacl" label="soycalamacl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="44" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="0.005029293922573531" />
+          <attvalue for="6" value="0.09660887269332019" />
+          <attvalue for="7" value="3.074676198162881e-05" />
+          <attvalue for="8" value="CMM17" />
+        </attvalues>
+      </node>
+      <node id="soyantofagasta" label="soyantofagasta">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="207" />
+          <attvalue for="4" value="57" />
+          <attvalue for="5" value="0.006588541444557246" />
+          <attvalue for="6" value="0.11304189490614996" />
+          <attvalue for="7" value="0.0008711765577901862" />
+          <attvalue for="8" value="CMM17" />
+        </attvalues>
+      </node>
+      <node id="mercurioafta" label="mercurioafta">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="193" />
+          <attvalue for="5" value="0.0017901975833652048" />
+          <attvalue for="6" value="0.08692615620475258" />
+          <attvalue for="7" value="0.005067066374572423" />
+          <attvalue for="8" value="CMM17" />
+        </attvalues>
+      </node>
+      <node id="soytemuco" label="soytemuco">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="27" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.003922382702397179" />
+          <attvalue for="6" value="0.17801627293152716" />
+          <attvalue for="7" value="0.005096230044344887" />
+          <attvalue for="8" value="CMM18" />
+        </attvalues>
+      </node>
+      <node id="soyvalparaiso" label="soyvalparaiso">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="53" />
+          <attvalue for="4" value="30" />
+          <attvalue for="5" value="0.024813810805283745" />
+          <attvalue for="6" value="0.19131209414633002" />
+          <attvalue for="7" value="0.002282146380209334" />
+          <attvalue for="8" value="CMM18" />
+        </attvalues>
+      </node>
+      <node id="soyiquique" label="soyiquique">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="26" />
+          <attvalue for="4" value="11" />
+          <attvalue for="5" value="0.002074603412000809" />
+          <attvalue for="6" value="0.11637584941029445" />
+          <attvalue for="7" value="0.004526133832602184" />
+          <attvalue for="8" value="CMM18" />
+        </attvalues>
+      </node>
+      <node id="soysanantonio" label="soysanantonio">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="28" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.01978765961800967" />
+          <attvalue for="6" value="0.16253659702443785" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM18" />
+        </attvalues>
+      </node>
+      <node id="latercera" label="latercera">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="471" />
+          <attvalue for="4" value="3025" />
+          <attvalue for="5" value="0.007619899892234389" />
+          <attvalue for="6" value="0.25763418079096045" />
+          <attvalue for="7" value="0.001412237211268688" />
+          <attvalue for="8" value="CMM19" />
+        </attvalues>
+      </node>
+      <node id="radiomariachile" label="radiomariachile">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="32" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM19" />
+        </attvalues>
+      </node>
+      <node id="radioduna" label="radioduna">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="18" />
+          <attvalue for="5" value="0.0009684831366947835" />
+          <attvalue for="6" value="0.19054608132459325" />
+          <attvalue for="7" value="0.0010958749924505717" />
+          <attvalue for="8" value="CMM19" />
+        </attvalues>
+      </node>
+      <node id="pulso_tw" label="pulso_tw">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="3091" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0075478371795506755" />
+          <attvalue for="6" value="0.1983535108958838" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM19" />
+        </attvalues>
+      </node>
+      <node id="diarioenlalinea" label="diarioenlalinea">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0.0010564784761079064" />
+          <attvalue for="6" value="0.08491454108921483" />
+          <attvalue for="7" value="0.00018678657903839501" />
+          <attvalue for="8" value="CMM20" />
+        </attvalues>
+      </node>
+      <node id="antofagastatv" label="antofagastatv">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="21" />
+          <attvalue for="4" value="10" />
+          <attvalue for="5" value="0.0028915819169141317" />
+          <attvalue for="6" value="0.08711376661382758" />
+          <attvalue for="7" value="0.013570028495659765" />
+          <attvalue for="8" value="CMM20" />
+        </attvalues>
+      </node>
+      <node id="radiouantof" label="radiouantof">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="26" />
+          <attvalue for="5" value="0.0016163581535119165" />
+          <attvalue for="6" value="0.08491454108921483" />
+          <attvalue for="7" value="0.007139013797609434" />
+          <attvalue for="8" value="CMM20" />
+        </attvalues>
+      </node>
+      <node id="radiosolchile" label="radiosolchile">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="9" />
+          <attvalue for="5" value="0.0010730610090290418" />
+          <attvalue for="6" value="0.09765172225259704" />
+          <attvalue for="7" value="0.015312848303163073" />
+          <attvalue for="8" value="CMM20" />
+        </attvalues>
+      </node>
+      <node id="canal95chile" label="canal95chile">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="0" />
+          <attvalue for="4" value="7" />
+          <attvalue for="5" value="0.0007966055878308724" />
+          <attvalue for="6" value="0.0" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM20" />
+        </attvalues>
+      </node>
+      <node id="region2cl" label="region2cl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="4" />
+          <attvalue for="4" value="13" />
+          <attvalue for="5" value="0.0010079761405637725" />
+          <attvalue for="6" value="0.07507013985940504" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM20" />
+        </attvalues>
+      </node>
+      <node id="pautalibrelared" label="pautalibrelared">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="42" />
+          <attvalue for="4" value="18" />
+          <attvalue for="5" value="0.0034418795632531344" />
+          <attvalue for="6" value="0.16701811805961425" />
+          <attvalue for="7" value="0.0008159421960874745" />
+          <attvalue for="8" value="CMM21" />
+        </attvalues>
+      </node>
+      <node id="laredtv" label="laredtv">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="89" />
+          <attvalue for="4" value="139" />
+          <attvalue for="5" value="0.01071760912556068" />
+          <attvalue for="6" value="0.20734269793359647" />
+          <attvalue for="7" value="0.05225932423009559" />
+          <attvalue for="8" value="CMM21" />
+        </attvalues>
+      </node>
+      <node id="ciper" label="ciper">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="127" />
+          <attvalue for="4" value="16" />
+          <attvalue for="5" value="0.005085440566615167" />
+          <attvalue for="6" value="0.24314886665305288" />
+          <attvalue for="7" value="0.12067054056158169" />
+          <attvalue for="8" value="CMM21" />
+        </attvalues>
+      </node>
+      <node id="mentiraslared" label="mentiraslared">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="98" />
+          <attvalue for="4" value="62" />
+          <attvalue for="5" value="0.007894875143760485" />
+          <attvalue for="6" value="0.20523412812410227" />
+          <attvalue for="7" value="0.008525560076061634" />
+          <attvalue for="8" value="CMM21" />
+        </attvalues>
+      </node>
+      <node id="soyconcepcion" label="soyconcepcion">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="13" />
+          <attvalue for="4" value="16" />
+          <attvalue for="5" value="0.0035553752596311186" />
+          <attvalue for="6" value="0.2046133787985157" />
+          <attvalue for="7" value="0.004258344177057426" />
+          <attvalue for="8" value="CMM22" />
+        </attvalues>
+      </node>
+      <node id="soychillan" label="soychillan">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.002721356338239064" />
+          <attvalue for="6" value="0.1835631083097619" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM22" />
+        </attvalues>
+      </node>
+      <node id="radiocorazonfm" label="radiocorazonfm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="18" />
+          <attvalue for="5" value="0.005309899365236552" />
+          <attvalue for="6" value="0.003389830508474576" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM23" />
+        </attvalues>
+      </node>
+      <node id="radioactivafm" label="radioactivafm">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="18" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="0.005309899365236552" />
+          <attvalue for="6" value="0.003389830508474576" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM23" />
+        </attvalues>
+      </node>
+      <node id="el_ciudadano" label="el_ciudadano">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="53" />
+          <attvalue for="4" value="18" />
+          <attvalue for="5" value="0.0033127517392026263" />
+          <attvalue for="6" value="0.19220338983050847" />
+          <attvalue for="7" value="0.1421190671173376" />
+          <attvalue for="8" value="CMM24" />
+        </attvalues>
+      </node>
+      <node id="rsumen" label="rsumen">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="38" />
+          <attvalue for="4" value="28" />
+          <attvalue for="5" value="0.003415399236358915" />
+          <attvalue for="6" value="0.19374101694915255" />
+          <attvalue for="7" value="0.10269039024314018" />
+          <attvalue for="8" value="CMM24" />
+        </attvalues>
+      </node>
+      <node id="radioelbosque" label="radioelbosque">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="17" />
+          <attvalue for="5" value="0.001473722326070701" />
+          <attvalue for="6" value="0.003389830508474576" />
+          <attvalue for="7" value="0.002640378185172374" />
+          <attvalue for="8" value="CMM24" />
+        </attvalues>
+      </node>
+      <node id="radiokurruf" label="radiokurruf">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="12" />
+          <attvalue for="4" value="31" />
+          <attvalue for="5" value="0.0020186490538853085" />
+          <attvalue for="6" value="0.15624275560415526" />
+          <attvalue for="7" value="2.594258042199931e-05" />
+          <attvalue for="8" value="CMM24" />
+        </attvalues>
+      </node>
+      <node id="cnnchile" label="cnnchile">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="1499" />
+          <attvalue for="4" value="1203" />
+          <attvalue for="5" value="0.02612549560231308" />
+          <attvalue for="6" value="0.21976068165738719" />
+          <attvalue for="7" value="0.009015046696644763" />
+          <attvalue for="8" value="CMM25" />
+        </attvalues>
+      </node>
+      <node id="chvnoticias" label="chvnoticias">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="1324" />
+          <attvalue for="4" value="1124" />
+          <attvalue for="5" value="0.02552065302453325" />
+          <attvalue for="6" value="0.21976068165738719" />
+          <attvalue for="7" value="0.011630909829629998" />
+          <attvalue for="8" value="CMM25" />
+        </attvalues>
+      </node>
+      <node id="soyarica" label="soyarica">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="5" />
+          <attvalue for="4" value="4" />
+          <attvalue for="5" value="0.0011327837469017605" />
+          <attvalue for="6" value="0.11396010524383529" />
+          <attvalue for="7" value="2.9785925669702907e-05" />
+          <attvalue for="8" value="CMM26" />
+        </attvalues>
+      </node>
+      <node id="radio_mistral" label="radio_mistral">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="7" />
+          <attvalue for="4" value="5" />
+          <attvalue for="5" value="0.0008987718341319964" />
+          <attvalue for="6" value="0.09587342485607311" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM26" />
+        </attvalues>
+      </node>
+      <node id="elovallino" label="elovallino">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="9" />
+          <attvalue for="4" value="8" />
+          <attvalue for="5" value="0.002002501367882495" />
+          <attvalue for="6" value="0.10593887628453223" />
+          <attvalue for="7" value="0.008158159147436216" />
+          <attvalue for="8" value="CMM26" />
+        </attvalues>
+      </node>
+      <node id="unapcl" label="unapcl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="11" />
+          <attvalue for="4" value="12" />
+          <attvalue for="5" value="0.002043941091234032" />
+          <attvalue for="6" value="0.12432046775484634" />
+          <attvalue for="7" value="0.0066794503650262895" />
+          <attvalue for="8" value="CMM27" />
+        </attvalues>
+      </node>
+      <node id="campustvhd" label="campustvhd">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="1" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="0.0008958275678585656" />
+          <attvalue for="6" value="0.11790470846467414" />
+          <attvalue for="7" value="0.003306196570637941" />
+          <attvalue for="8" value="CMM27" />
+        </attvalues>
+      </node>
+      <node id="laestrellaiqq" label="laestrellaiqq">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="0" />
+          <attvalue for="5" value="0.0017622284043737246" />
+          <attvalue for="6" value="0.1158834103749358" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM27" />
+        </attvalues>
+      </node>
+      <node id="radiolibraynexo" label="radiolibraynexo">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="3" />
+          <attvalue for="4" value="16" />
+          <attvalue for="5" value="0.0008255006549467577" />
+          <attvalue for="6" value="0.1140189600689457" />
+          <attvalue for="7" value="0.005090481216389207" />
+          <attvalue for="8" value="CMM28" />
+        </attvalues>
+      </node>
+      <node id="canalvtvcl" label="canalvtvcl">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="6" />
+          <attvalue for="5" value="0.0012320840913758685" />
+          <attvalue for="6" value="0.09892821535393818" />
+          <attvalue for="7" value="0.0" />
+          <attvalue for="8" value="CMM28" />
+        </attvalues>
+      </node>
+      <node id="aconcaguaradio" label="aconcaguaradio">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="53" />
+          <attvalue for="4" value="1" />
+          <attvalue for="5" value="0.013726492277849743" />
+          <attvalue for="6" value="0.10296610169491527" />
+          <attvalue for="7" value="0.0001746159857540003" />
+          <attvalue for="8" value="CMM28" />
+        </attvalues>
+      </node>
+      <node id="aconcaguanews" label="aconcaguanews">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="6" />
+          <attvalue for="4" value="46" />
+          <attvalue for="5" value="0.0022070805963306395" />
+          <attvalue for="6" value="0.1089902210560039" />
+          <attvalue for="7" value="0.024464109560961858" />
+          <attvalue for="8" value="CMM28" />
+        </attvalues>
+      </node>
+      <node id="putaendoinforma" label="putaendoinforma">
+        <attvalues>
+          <attvalue for="0" value="Medio" />
+          <attvalue for="1" value="No disponible" />
+          <attvalue for="2" value="Medio" />
+          <attvalue for="3" value="10" />
+          <attvalue for="4" value="35" />
+          <attvalue for="5" value="0.014478427938766027" />
+          <attvalue for="6" value="0.11733346472211273" />
+          <attvalue for="7" value="0.018794406651549512" />
+          <attvalue for="8" value="CMM28" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" label="0.077" source="esperanzafm" target="araucanianews" weight="0.077" />
+      <edge id="1" label="0.06" source="esperanzafm" target="soytemuco" weight="0.06" />
+      <edge id="2" label="0.034" source="esperanzafm" target="ufromedios" weight="0.034" />
+      <edge id="3" label="0.051" source="esperanzafm" target="t13" weight="0.051" />
+      <edge id="4" label="0.043" source="esperanzafm" target="cooperativa" weight="0.043" />
+      <edge id="5" label="0.068" source="esperanzafm" target="meganoticiascl" weight="0.068" />
+      <edge id="6" label="0.06" source="esperanzafm" target="biobio" weight="0.06" />
+      <edge id="7" label="0.393" source="esperanzafm" target="clave9cl" weight="0.393" />
+      <edge id="8" label="0.051" source="esperanzafm" target="radiomiradorfm" weight="0.051" />
+      <edge id="9" label="0.043" source="esperanzafm" target="temucodiario" weight="0.043" />
+      <edge id="10" label="0.043" source="esperanzafm" target="elperiodicocl" weight="0.043" />
+      <edge id="11" label="0.043" source="esperanzafm" target="araucaniadiario" weight="0.043" />
+      <edge id="12" label="0.034" source="esperanzafm" target="araucaniacuenta" weight="0.034" />
+      <edge id="13" label="1.0" source="patagondomingo" target="ddivisadero" weight="1.0" />
+      <edge id="14" label="1.0" source="rockandpop" target="adnradiochile" weight="1.0" />
+      <edge id="15" label="0.12" source="radioisadorafm" target="24horastvn" weight="0.12" />
+      <edge id="16" label="0.088" source="radioisadorafm" target="t13" weight="0.088" />
+      <edge id="17" label="0.048" source="radioisadorafm" target="latercera" weight="0.048" />
+      <edge id="18" label="0.064" source="radioisadorafm" target="cooperativa" weight="0.064" />
+      <edge id="19" label="0.24" source="radioisadorafm" target="meganoticiascl" weight="0.24" />
+      <edge id="20" label="0.168" source="radioisadorafm" target="biobio" weight="0.168" />
+      <edge id="21" label="0.032" source="radioisadorafm" target="adnradiochile" weight="0.032" />
+      <edge id="22" label="0.064" source="radioisadorafm" target="radionuble" weight="0.064" />
+      <edge id="23" label="0.048" source="radioisadorafm" target="clave9cl" weight="0.048" />
+      <edge id="24" label="0.064" source="radioisadorafm" target="ladiscusioncl" weight="0.064" />
+      <edge id="25" label="0.032" source="radioisadorafm" target="cronicachillan" weight="0.032" />
+      <edge id="26" label="0.032" source="radioisadorafm" target="canal_21tv" weight="0.032" />
+      <edge id="27" label="0.009" source="buenosdiascurac" target="pulso_tw" weight="0.009" />
+      <edge id="28" label="0.009" source="buenosdiascurac" target="cnnchile" weight="0.009" />
+      <edge id="29" label="0.119" source="buenosdiascurac" target="24horastvn" weight="0.119" />
+      <edge id="30" label="0.005" source="buenosdiascurac" target="chvnoticias" weight="0.005" />
+      <edge id="31" label="0.225" source="buenosdiascurac" target="t13" weight="0.225" />
+      <edge id="32" label="0.06" source="buenosdiascurac" target="latercera" weight="0.06" />
+      <edge id="33" label="0.021" source="buenosdiascurac" target="cooperativa" weight="0.021" />
+      <edge id="34" label="0.174" source="buenosdiascurac" target="meganoticiascl" weight="0.174" />
+      <edge id="35" label="0.106" source="buenosdiascurac" target="agriculturafm" weight="0.106" />
+      <edge id="36" label="0.122" source="buenosdiascurac" target="biobio" weight="0.122" />
+      <edge id="37" label="0.011" source="buenosdiascurac" target="adnradiochile" weight="0.011" />
+      <edge id="38" label="0.01" source="buenosdiascurac" target="publimetrochile" weight="0.01" />
+      <edge id="39" label="0.015" source="buenosdiascurac" target="elcomunicadorcl" weight="0.015" />
+      <edge id="40" label="0.102" source="buenosdiascurac" target="radioprensa" weight="0.102" />
+      <edge id="41" label="0.008" source="buenosdiascurac" target="lacuarta" weight="0.008" />
+      <edge id="42" label="0.006" source="buenosdiascurac" target="elmercurio_cl" weight="0.006" />
+      <edge id="43" label="0.357" source="radiogenialfm" target="biobio" weight="0.357" />
+      <edge id="44" label="0.214" source="radiogenialfm" target="ddivisadero" weight="0.214" />
+      <edge id="45" label="0.286" source="radiogenialfm" target="radiosantamaria" weight="0.286" />
+      <edge id="46" label="0.143" source="radiogenialfm" target="radiolasnieves" weight="0.143" />
+      <edge id="47" label="0.5" source="elrancaguino" target="eltipografo" weight="0.5" />
+      <edge id="48" label="0.5" source="elrancaguino" target="biobio" weight="0.5" />
+      <edge id="49" label="1.0" source="radiocarab" target="biobio" weight="1.0" />
+      <edge id="50" label="0.486" source="canal_21tv" target="radionuble" weight="0.486" />
+      <edge id="51" label="0.229" source="canal_21tv" target="ladiscusioncl" weight="0.229" />
+      <edge id="52" label="0.286" source="canal_21tv" target="cronicachillan" weight="0.286" />
+      <edge id="53" label="0.308" source="temuco" target="araucanianews" weight="0.308" />
+      <edge id="54" label="0.308" source="temuco" target="soytemuco" weight="0.308" />
+      <edge id="55" label="0.385" source="temuco" target="ufromedios" weight="0.385" />
+      <edge id="56" label="0.046" source="tv4television" target="cnnchile" weight="0.046" />
+      <edge id="57" label="0.092" source="tv4television" target="24horastvn" weight="0.092" />
+      <edge id="58" label="0.08" source="tv4television" target="t13" weight="0.08" />
+      <edge id="59" label="0.184" source="tv4television" target="cooperativa" weight="0.184" />
+      <edge id="60" label="0.126" source="tv4television" target="meganoticiascl" weight="0.126" />
+      <edge id="61" label="0.195" source="tv4television" target="biobio" weight="0.195" />
+      <edge id="62" label="0.057" source="tv4television" target="adnradiochile" weight="0.057" />
+      <edge id="63" label="0.092" source="tv4television" target="diarioconce" weight="0.092" />
+      <edge id="64" label="0.08" source="tv4television" target="tvunoticias" weight="0.08" />
+      <edge id="65" label="0.046" source="tv4television" target="radionuble" weight="0.046" />
+      <edge id="66" label="0.5" source="araucaniacuenta" target="cooperativa" weight="0.5" />
+      <edge id="67" label="0.5" source="araucaniacuenta" target="biobio" weight="0.5" />
+      <edge id="68" label="0.023" source="radiovalparaiso" target="cnnchile" weight="0.023" />
+      <edge id="69" label="0.08" source="radiovalparaiso" target="24horastvn" weight="0.08" />
+      <edge id="70" label="0.046" source="radiovalparaiso" target="chvnoticias" weight="0.046" />
+      <edge id="71" label="0.046" source="radiovalparaiso" target="t13" weight="0.046" />
+      <edge id="72" label="0.046" source="radiovalparaiso" target="latercera" weight="0.046" />
+      <edge id="73" label="0.034" source="radiovalparaiso" target="cooperativa" weight="0.034" />
+      <edge id="74" label="0.063" source="radiovalparaiso" target="meganoticiascl" weight="0.063" />
+      <edge id="75" label="0.16" source="radiovalparaiso" target="radio_festival" weight="0.16" />
+      <edge id="76" label="0.023" source="radiovalparaiso" target="soyvalparaiso" weight="0.023" />
+      <edge id="77" label="0.023" source="radiovalparaiso" target="mercuriovalpo" weight="0.023" />
+      <edge id="78" label="0.12" source="radiovalparaiso" target="ucvradio" weight="0.12" />
+      <edge id="79" label="0.114" source="radiovalparaiso" target="biobio" weight="0.114" />
+      <edge id="80" label="0.04" source="radiovalparaiso" target="adnradiochile" weight="0.04" />
+      <edge id="81" label="0.023" source="radiovalparaiso" target="laestrellavalpo" weight="0.023" />
+      <edge id="82" label="0.034" source="radiovalparaiso" target="tvnvalparaiso" weight="0.034" />
+      <edge id="83" label="0.023" source="radiovalparaiso" target="radioportales" weight="0.023" />
+      <edge id="84" label="0.046" source="radiovalparaiso" target="tvn" weight="0.046" />
+      <edge id="85" label="0.029" source="radiovalparaiso" target="laredtv" weight="0.029" />
+      <edge id="86" label="0.029" source="radiovalparaiso" target="eo_enlinea" weight="0.029" />
+      <edge id="87" label="0.003" source="radio_austral" target="pulso_tw" weight="0.003" />
+      <edge id="88" label="0.011" source="radio_austral" target="cnnchile" weight="0.011" />
+      <edge id="89" label="0.029" source="radio_austral" target="24horastvn" weight="0.029" />
+      <edge id="90" label="0.012" source="radio_austral" target="cdf_cl" weight="0.012" />
+      <edge id="91" label="0.043" source="radio_austral" target="t13" weight="0.043" />
+      <edge id="92" label="0.023" source="radio_austral" target="latercera" weight="0.023" />
+      <edge id="93" label="0.155" source="radio_austral" target="cooperativa" weight="0.155" />
+      <edge id="94" label="0.05" source="radio_austral" target="meganoticiascl" weight="0.05" />
+      <edge id="95" label="0.011" source="radio_austral" target="adnradiochile" weight="0.011" />
+      <edge id="96" label="0.013" source="radio_austral" target="soyvaldiviacl" weight="0.013" />
+      <edge id="97" label="0.521" source="radio_austral" target="rioenlinea" weight="0.521" />
+      <edge id="98" label="0.026" source="radio_austral" target="lacuarta" weight="0.026" />
+      <edge id="99" label="0.057" source="radio_austral" target="nacioncl" weight="0.057" />
+      <edge id="100" label="0.014" source="radio_austral" target="panguipuiii" weight="0.014" />
+      <edge id="101" label="0.01" source="radio_austral" target="lun" weight="0.01" />
+      <edge id="102" label="0.014" source="radio_austral" target="diariofutrono" weight="0.014" />
+      <edge id="103" label="0.008" source="radio_austral" target="emol" weight="0.008" />
+      <edge id="104" label="0.015" source="tarapaca_online" target="pulso_tw" weight="0.015" />
+      <edge id="105" label="0.039" source="tarapaca_online" target="cnnchile" weight="0.039" />
+      <edge id="106" label="0.041" source="tarapaca_online" target="24horastvn" weight="0.041" />
+      <edge id="107" label="0.018" source="tarapaca_online" target="elmostrador" weight="0.018" />
+      <edge id="108" label="0.05" source="tarapaca_online" target="chvnoticias" weight="0.05" />
+      <edge id="109" label="0.095" source="tarapaca_online" target="cdf_cl" weight="0.095" />
+      <edge id="110" label="0.118" source="tarapaca_online" target="t13" weight="0.118" />
+      <edge id="111" label="0.029" source="tarapaca_online" target="tele13_radio" weight="0.029" />
+      <edge id="112" label="0.086" source="tarapaca_online" target="latercera" weight="0.086" />
+      <edge id="113" label="0.066" source="tarapaca_online" target="cooperativa" weight="0.066" />
+      <edge id="114" label="0.088" source="tarapaca_online" target="meganoticiascl" weight="0.088" />
+      <edge id="115" label="0.06" source="tarapaca_online" target="agriculturafm" weight="0.06" />
+      <edge id="116" label="0.021" source="tarapaca_online" target="biobio" weight="0.021" />
+      <edge id="117" label="0.172" source="tarapaca_online" target="adnradiochile" weight="0.172" />
+      <edge id="118" label="0.008" source="tarapaca_online" target="thecliniccl" weight="0.008" />
+      <edge id="119" label="0.009" source="tarapaca_online" target="dfinanciero" weight="0.009" />
+      <edge id="120" label="0.009" source="tarapaca_online" target="lacuarta" weight="0.009" />
+      <edge id="121" label="0.016" source="tarapaca_online" target="nacioncl" weight="0.016" />
+      <edge id="122" label="0.019" source="tarapaca_online" target="soyiquique" weight="0.019" />
+      <edge id="123" label="0.006" source="tarapaca_online" target="el_dinamo" weight="0.006" />
+      <edge id="124" label="0.005" source="tarapaca_online" target="ellongino" weight="0.005" />
+      <edge id="125" label="0.031" source="tarapaca_online" target="radiobravissima" weight="0.031" />
+      <edge id="126" label="0.054" source="elsoldeiquique" target="cnnchile" weight="0.054" />
+      <edge id="127" label="0.098" source="elsoldeiquique" target="24horastvn" weight="0.098" />
+      <edge id="128" label="0.054" source="elsoldeiquique" target="elmostrador" weight="0.054" />
+      <edge id="129" label="0.087" source="elsoldeiquique" target="latercera" weight="0.087" />
+      <edge id="130" label="0.141" source="elsoldeiquique" target="cooperativa" weight="0.141" />
+      <edge id="131" label="0.391" source="elsoldeiquique" target="biobio" weight="0.391" />
+      <edge id="132" label="0.065" source="elsoldeiquique" target="publimetrochile" weight="0.065" />
+      <edge id="133" label="0.043" source="elsoldeiquique" target="thecliniccl" weight="0.043" />
+      <edge id="134" label="0.065" source="elsoldeiquique" target="eldesconcierto" weight="0.065" />
+      <edge id="135" label="0.556" source="diariopenquista" target="cooperativa" weight="0.556" />
+      <edge id="136" label="0.444" source="diariopenquista" target="biobio" weight="0.444" />
+      <edge id="137" label="1.0" source="tvbiobio" target="biobio" weight="1.0" />
+      <edge id="138" label="0.117" source="radionuble" target="cnnchile" weight="0.117" />
+      <edge id="139" label="0.156" source="radionuble" target="24horastvn" weight="0.156" />
+      <edge id="140" label="0.06" source="radionuble" target="elmostrador" weight="0.06" />
+      <edge id="141" label="0.018" source="radionuble" target="chvnoticias" weight="0.018" />
+      <edge id="142" label="0.159" source="radionuble" target="t13" weight="0.159" />
+      <edge id="143" label="0.03" source="radionuble" target="tele13_radio" weight="0.03" />
+      <edge id="144" label="0.018" source="radionuble" target="latercera" weight="0.018" />
+      <edge id="145" label="0.072" source="radionuble" target="meganoticiascl" weight="0.072" />
+      <edge id="146" label="0.039" source="radionuble" target="agriculturafm" weight="0.039" />
+      <edge id="147" label="0.012" source="radionuble" target="radioportales" weight="0.012" />
+      <edge id="148" label="0.045" source="radionuble" target="publimetrochile" weight="0.045" />
+      <edge id="149" label="0.015" source="radionuble" target="diarioconce" weight="0.015" />
+      <edge id="150" label="0.027" source="radionuble" target="ladiscusioncl" weight="0.027" />
+      <edge id="151" label="0.012" source="radionuble" target="lacuarta" weight="0.012" />
+      <edge id="152" label="0.051" source="radionuble" target="cronicachillan" weight="0.051" />
+      <edge id="153" label="0.036" source="radionuble" target="canal_21tv" weight="0.036" />
+      <edge id="154" label="0.081" source="radionuble" target="nacioncl" weight="0.081" />
+      <edge id="155" label="0.042" source="radionuble" target="radioisadorafm" weight="0.042" />
+      <edge id="156" label="0.012" source="radionuble" target="radio_carinosa" weight="0.012" />
+      <edge id="157" label="0.032" source="radio_festival" target="elmartutino" weight="0.032" />
+      <edge id="158" label="0.051" source="radio_festival" target="t13" weight="0.051" />
+      <edge id="159" label="0.038" source="radio_festival" target="cooperativa" weight="0.038" />
+      <edge id="160" label="0.032" source="radio_festival" target="meganoticiascl" weight="0.032" />
+      <edge id="161" label="0.038" source="radio_festival" target="soyvalparaiso" weight="0.038" />
+      <edge id="162" label="0.21" source="radio_festival" target="ucvradio" weight="0.21" />
+      <edge id="163" label="0.248" source="radio_festival" target="biobio" weight="0.248" />
+      <edge id="164" label="0.089" source="radio_festival" target="adnradiochile" weight="0.089" />
+      <edge id="165" label="0.032" source="radio_festival" target="laestrellavalpo" weight="0.032" />
+      <edge id="166" label="0.102" source="radio_festival" target="radiovalparaiso" weight="0.102" />
+      <edge id="167" label="0.102" source="radio_festival" target="portalesdevalpo" weight="0.102" />
+      <edge id="168" label="0.025" source="radio_festival" target="congresofm" weight="0.025" />
+      <edge id="169" label="0.412" source="radiorancagua" target="interferenciacl" weight="0.412" />
+      <edge id="170" label="0.588" source="radiorancagua" target="cooperativa" weight="0.588" />
+      <edge id="171" label="0.162" source="congresofm" target="radio_festival" weight="0.162" />
+      <edge id="172" label="0.135" source="congresofm" target="mercuriovalpo" weight="0.135" />
+      <edge id="173" label="0.27" source="congresofm" target="ucvradio" weight="0.27" />
+      <edge id="174" label="0.135" source="congresofm" target="biobio" weight="0.135" />
+      <edge id="175" label="0.189" source="congresofm" target="radiovalparaiso" weight="0.189" />
+      <edge id="176" label="0.108" source="congresofm" target="portalesdevalpo" weight="0.108" />
+      <edge id="177" label="0.229" source="sancarlosonline" target="cnnchile" weight="0.229" />
+      <edge id="178" label="0.104" source="sancarlosonline" target="latercera" weight="0.104" />
+      <edge id="179" label="0.479" source="sancarlosonline" target="cooperativa" weight="0.479" />
+      <edge id="180" label="0.188" source="sancarlosonline" target="eldesconcierto" weight="0.188" />
+      <edge id="181" label="0.111" source="araucanianews" target="soytemuco" weight="0.111" />
+      <edge id="182" label="0.278" source="araucanianews" target="latercera" weight="0.278" />
+      <edge id="183" label="0.194" source="araucanianews" target="meganoticiascl" weight="0.194" />
+      <edge id="184" label="0.417" source="araucanianews" target="biobio" weight="0.417" />
+      <edge id="185" label="0.084" source="primordialfm" target="cnnchile" weight="0.084" />
+      <edge id="186" label="0.11" source="primordialfm" target="24horastvn" weight="0.11" />
+      <edge id="187" label="0.032" source="primordialfm" target="chvnoticias" weight="0.032" />
+      <edge id="188" label="0.091" source="primordialfm" target="t13" weight="0.091" />
+      <edge id="189" label="0.026" source="primordialfm" target="tele13_radio" weight="0.026" />
+      <edge id="190" label="0.084" source="primordialfm" target="latercera" weight="0.084" />
+      <edge id="191" label="0.032" source="primordialfm" target="cooperativa" weight="0.032" />
+      <edge id="192" label="0.104" source="primordialfm" target="elrancaguino" weight="0.104" />
+      <edge id="193" label="0.071" source="primordialfm" target="meganoticiascl" weight="0.071" />
+      <edge id="194" label="0.032" source="primordialfm" target="agriculturafm" weight="0.032" />
+      <edge id="195" label="0.331" source="primordialfm" target="eltipografo" weight="0.331" />
+      <edge id="196" label="1.0" source="diarioelhuemul" target="radiocarab" weight="1.0" />
+      <edge id="197" label="1.0" source="parativaldivia" target="rioenlinea" weight="1.0" />
+      <edge id="198" label="0.333" source="enfasis95_5fm" target="radio_festival" weight="0.333" />
+      <edge id="199" label="0.152" source="enfasis95_5fm" target="mercuriovalpo" weight="0.152" />
+      <edge id="200" label="0.212" source="enfasis95_5fm" target="laestrellavalpo" weight="0.212" />
+      <edge id="201" label="0.303" source="enfasis95_5fm" target="eo_enlinea" weight="0.303" />
+      <edge id="202" label="0.556" source="araucaniadiario" target="araucanianews" weight="0.556" />
+      <edge id="203" label="0.444" source="araucaniadiario" target="biobio" weight="0.444" />
+      <edge id="204" label="0.033" source="portaldemeli" target="cnnchile" weight="0.033" />
+      <edge id="205" label="0.049" source="portaldemeli" target="24horastvn" weight="0.049" />
+      <edge id="206" label="0.038" source="portaldemeli" target="elmostrador" weight="0.038" />
+      <edge id="207" label="0.042" source="portaldemeli" target="chvnoticias" weight="0.042" />
+      <edge id="208" label="0.094" source="portaldemeli" target="t13" weight="0.094" />
+      <edge id="209" label="0.086" source="portaldemeli" target="latercera" weight="0.086" />
+      <edge id="210" label="0.185" source="portaldemeli" target="cooperativa" weight="0.185" />
+      <edge id="211" label="0.054" source="portaldemeli" target="meganoticiascl" weight="0.054" />
+      <edge id="212" label="0.138" source="portaldemeli" target="biobio" weight="0.138" />
+      <edge id="213" label="0.037" source="portaldemeli" target="adnradiochile" weight="0.037" />
+      <edge id="214" label="0.014" source="portaldemeli" target="mentiraslared" weight="0.014" />
+      <edge id="215" label="0.012" source="portaldemeli" target="publimetrochile" weight="0.012" />
+      <edge id="216" label="0.021" source="portaldemeli" target="thecliniccl" weight="0.021" />
+      <edge id="217" label="0.023" source="portaldemeli" target="eldesconcierto" weight="0.023" />
+      <edge id="218" label="0.009" source="portaldemeli" target="dfinanciero" weight="0.009" />
+      <edge id="219" label="0.007" source="portaldemeli" target="pautalibrelared" weight="0.007" />
+      <edge id="220" label="0.007" source="portaldemeli" target="elcomunicadorcl" weight="0.007" />
+      <edge id="221" label="0.009" source="portaldemeli" target="radiocarab" weight="0.009" />
+      <edge id="222" label="0.033" source="portaldemeli" target="radioprensa" weight="0.033" />
+      <edge id="223" label="0.101" source="portaldemeli" target="ciper" weight="0.101" />
+      <edge id="224" label="0.009" source="portaldemeli" target="gamba_cl" weight="0.009" />
+      <edge id="225" label="0.048" source="radiopaulina" target="pulso_tw" weight="0.048" />
+      <edge id="226" label="0.247" source="radiopaulina" target="cnnchile" weight="0.247" />
+      <edge id="227" label="0.012" source="radiopaulina" target="24horastvn" weight="0.012" />
+      <edge id="228" label="0.118" source="radiopaulina" target="elmostrador" weight="0.118" />
+      <edge id="229" label="0.033" source="radiopaulina" target="interferenciacl" weight="0.033" />
+      <edge id="230" label="0.008" source="radiopaulina" target="chvnoticias" weight="0.008" />
+      <edge id="231" label="0.007" source="radiopaulina" target="cdf_cl" weight="0.007" />
+      <edge id="232" label="0.024" source="radiopaulina" target="t13" weight="0.024" />
+      <edge id="233" label="0.131" source="radiopaulina" target="latercera" weight="0.131" />
+      <edge id="234" label="0.033" source="radiopaulina" target="cooperativa" weight="0.033" />
+      <edge id="235" label="0.009" source="radiopaulina" target="meganoticiascl" weight="0.009" />
+      <edge id="236" label="0.008" source="radiopaulina" target="biobio" weight="0.008" />
+      <edge id="237" label="0.012" source="radiopaulina" target="adnradiochile" weight="0.012" />
+      <edge id="238" label="0.094" source="radiopaulina" target="publimetrochile" weight="0.094" />
+      <edge id="239" label="0.042" source="radiopaulina" target="thecliniccl" weight="0.042" />
+      <edge id="240" label="0.094" source="radiopaulina" target="eldesconcierto" weight="0.094" />
+      <edge id="241" label="0.013" source="radiopaulina" target="el_ciudadano" weight="0.013" />
+      <edge id="242" label="0.017" source="radiopaulina" target="dfinanciero" weight="0.017" />
+      <edge id="243" label="0.031" source="radiopaulina" target="ciper" weight="0.031" />
+      <edge id="244" label="0.019" source="radiopaulina" target="uchileradio" weight="0.019" />
+      <edge id="245" label="0.235" source="serenaycoquimbo" target="24horastvn" weight="0.235" />
+      <edge id="246" label="0.765" source="serenaycoquimbo" target="biobio" weight="0.765" />
+      <edge id="247" label="0.063" source="diarioenaccion" target="cnnchile" weight="0.063" />
+      <edge id="248" label="0.035" source="diarioenaccion" target="24horastvn" weight="0.035" />
+      <edge id="249" label="0.049" source="diarioenaccion" target="chvnoticias" weight="0.049" />
+      <edge id="250" label="0.035" source="diarioenaccion" target="t13" weight="0.035" />
+      <edge id="251" label="0.07" source="diarioenaccion" target="latercera" weight="0.07" />
+      <edge id="252" label="0.07" source="diarioenaccion" target="cooperativa" weight="0.07" />
+      <edge id="253" label="0.063" source="diarioenaccion" target="meganoticiascl" weight="0.063" />
+      <edge id="254" label="0.049" source="diarioenaccion" target="biobio" weight="0.049" />
+      <edge id="255" label="0.042" source="diarioenaccion" target="adnradiochile" weight="0.042" />
+      <edge id="256" label="0.028" source="diarioenaccion" target="soyvaldiviacl" weight="0.028" />
+      <edge id="257" label="0.077" source="diarioenaccion" target="publimetrochile" weight="0.077" />
+      <edge id="258" label="0.035" source="diarioenaccion" target="thecliniccl" weight="0.035" />
+      <edge id="259" label="0.266" source="diarioenaccion" target="rioenlinea" weight="0.266" />
+      <edge id="260" label="0.035" source="diarioenaccion" target="eldesconcierto" weight="0.035" />
+      <edge id="261" label="0.049" source="diarioenaccion" target="el_ciudadano" weight="0.049" />
+      <edge id="262" label="0.035" source="diarioenaccion" target="dfinanciero" weight="0.035" />
+      <edge id="263" label="0.5" source="radiocontigofm" target="t13" weight="0.5" />
+      <edge id="264" label="0.222" source="radiocontigofm" target="cooperativa" weight="0.222" />
+      <edge id="265" label="0.278" source="radiocontigofm" target="radionuble" weight="0.278" />
+      <edge id="266" label="0.286" source="elmostrador" target="24horastvn" weight="0.286" />
+      <edge id="267" label="0.286" source="elmostrador" target="radiolaclave" weight="0.286" />
+      <edge id="268" label="0.429" source="elmostrador" target="viax" weight="0.429" />
+      <edge id="269" label="1.0" source="radiolaclave" target="elmostrador" weight="1.0" />
+      <edge id="270" label="0.31" source="viax" target="elmostrador" weight="0.31" />
+      <edge id="271" label="0.69" source="viax" target="interferenciacl" weight="0.69" />
+      <edge id="272" label="1.0" source="diario30" target="elmostrador" weight="1.0" />
+      <edge id="273" label="0.704" source="interferenciacl" target="viax" weight="0.704" />
+      <edge id="274" label="0.148" source="interferenciacl" target="latercera" weight="0.148" />
+      <edge id="275" label="0.148" source="interferenciacl" target="rsumen" weight="0.148" />
+      <edge id="276" label="1.0" source="pinguinodiario" target="laprensaustral" weight="1.0" />
+      <edge id="277" label="1.0" source="radio_amiga" target="laprensaustral" weight="1.0" />
+      <edge id="278" label="0.636" source="oasisfmchile" target="t13" weight="0.636" />
+      <edge id="279" label="0.364" source="oasisfmchile" target="sonarfm" weight="0.364" />
+      <edge id="280" label="0.5" source="t13" target="t13concepcion" weight="0.5" />
+      <edge id="281" label="0.5" source="t13" target="tele13_radio" weight="0.5" />
+      <edge id="282" label="1.0" source="canal_13c" target="t13" weight="1.0" />
+      <edge id="283" label="1.0" source="t13concepcion" target="t13" weight="1.0" />
+      <edge id="284" label="0.64" source="sonarfm" target="t13" weight="0.64" />
+      <edge id="285" label="0.36" source="sonarfm" target="oasisfmchile" weight="0.36" />
+      <edge id="286" label="1.0" source="tele13_radio" target="t13" weight="1.0" />
+      <edge id="287" label="0.827" source="tvunoticias" target="tvu_television" weight="0.827" />
+      <edge id="288" label="0.079" source="tvunoticias" target="diarioconce" weight="0.079" />
+      <edge id="289" label="0.066" source="tvunoticias" target="radioudec" weight="0.066" />
+      <edge id="290" label="0.028" source="tvunoticias" target="ladiscusioncl" weight="0.028" />
+      <edge id="291" label="0.663" source="diarioconce" target="tvu_television" weight="0.663" />
+      <edge id="292" label="0.154" source="diarioconce" target="radioudec" weight="0.154" />
+      <edge id="293" label="0.038" source="diarioconce" target="tvunoticias" weight="0.038" />
+      <edge id="294" label="0.144" source="diarioconce" target="ladiscusioncl" weight="0.144" />
+      <edge id="295" label="0.27" source="tvu_television" target="diarioconce" weight="0.27" />
+      <edge id="296" label="0.209" source="tvu_television" target="radioudec" weight="0.209" />
+      <edge id="297" label="0.327" source="tvu_television" target="tvunoticias" weight="0.327" />
+      <edge id="298" label="0.194" source="tvu_television" target="ladiscusioncl" weight="0.194" />
+      <edge id="299" label="0.5" source="ladiscusioncl" target="tvu_television" weight="0.5" />
+      <edge id="300" label="0.217" source="ladiscusioncl" target="diarioconce" weight="0.217" />
+      <edge id="301" label="0.283" source="ladiscusioncl" target="radioudec" weight="0.283" />
+      <edge id="302" label="0.452" source="radioudec" target="tvu_television" weight="0.452" />
+      <edge id="303" label="0.282" source="radioudec" target="diarioconce" weight="0.282" />
+      <edge id="304" label="0.081" source="radioudec" target="tvunoticias" weight="0.081" />
+      <edge id="305" label="0.185" source="radioudec" target="ladiscusioncl" weight="0.185" />
+      <edge id="306" label="1.0" source="tvnredohiggins" target="24horastvn" weight="1.0" />
+      <edge id="307" label="0.994" source="tvn" target="24horastvn" weight="0.994" />
+      <edge id="308" label="0.004" source="tvn" target="tvnredcoquimbo" weight="0.004" />
+      <edge id="309" label="0.002" source="tvn" target="tvnredohiggins" weight="0.002" />
+      <edge id="310" label="0.001" source="tvn" target="tvnredbiobio" weight="0.001" />
+      <edge id="311" label="1.0" source="tvnredbiobio" target="24horastvn" weight="1.0" />
+      <edge id="312" label="1.0" source="tvnredcoquimbo" target="24horastvn" weight="1.0" />
+      <edge id="313" label="1.0" source="tvnredatacama" target="24horastvn" weight="1.0" />
+      <edge id="314" label="0.239" source="24horastvn" target="tvnredcoquimbo" weight="0.239" />
+      <edge id="315" label="0.546" source="24horastvn" target="tvn" weight="0.546" />
+      <edge id="316" label="0.095" source="24horastvn" target="tvnredohiggins" weight="0.095" />
+      <edge id="317" label="0.12" source="24horastvn" target="tvnredbiobio" weight="0.12" />
+      <edge id="318" label="1.0" source="conciertoradio" target="tvn" weight="1.0" />
+      <edge id="319" label="1.0" source="redaraucania" target="redmaule" weight="1.0" />
+      <edge id="320" label="1.0" source="redbiobio" target="redmaule" weight="1.0" />
+      <edge id="321" label="1.0" source="redarica" target="redmaule" weight="1.0" />
+      <edge id="322" label="1.0" source="red_coquimbo" target="redmaule" weight="1.0" />
+      <edge id="323" label="1.0" source="redloslagos" target="redmaule" weight="1.0" />
+      <edge id="324" label="1.0" source="redvalparaiso" target="redmaule" weight="1.0" />
+      <edge id="325" label="1.0" source="red_ohiggins" target="redmaule" weight="1.0" />
+      <edge id="326" label="1.0" source="redantofagasta" target="redmaule" weight="1.0" />
+      <edge id="327" label="1.0" source="redatacama" target="redmaule" weight="1.0" />
+      <edge id="328" label="1.0" source="redtarapaca" target="redmaule" weight="1.0" />
+      <edge id="329" label="1.0" source="redlosrios" target="redmaule" weight="1.0" />
+      <edge id="330" label="1.0" source="agriculturafm" target="elliberocl" weight="1.0" />
+      <edge id="331" label="0.035" source="carta_abierta" target="agriculturafm" weight="0.035" />
+      <edge id="332" label="0.965" source="carta_abierta" target="elliberocl" weight="0.965" />
+      <edge id="333" label="1.0" source="elliberocl" target="agriculturafm" weight="1.0" />
+      <edge id="334" label="1.0" source="elnortero" target="elobservatodo" weight="1.0" />
+      <edge id="335" label="0.227" source="elmorrocotudo" target="elboyaldia" weight="0.227" />
+      <edge id="336" label="0.182" source="elmorrocotudo" target="cnnchile" weight="0.182" />
+      <edge id="337" label="0.182" source="elmorrocotudo" target="soyarica" weight="0.182" />
+      <edge id="338" label="0.409" source="elmorrocotudo" target="elobservatodo" weight="0.409" />
+      <edge id="339" label="1.0" source="elparadiario14" target="elobservatodo" weight="1.0" />
+      <edge id="340" label="0.212" source="elobservatodo" target="montecarlocl" weight="0.212" />
+      <edge id="341" label="0.121" source="elobservatodo" target="elnortero" weight="0.121" />
+      <edge id="342" label="0.273" source="elobservatodo" target="rsbchile" weight="0.273" />
+      <edge id="343" label="0.182" source="elobservatodo" target="tvnredcoquimbo" weight="0.182" />
+      <edge id="344" label="0.212" source="elobservatodo" target="elmartutino" weight="0.212" />
+      <edge id="345" label="1.0" source="elboyaldia" target="elobservatodo" weight="1.0" />
+      <edge id="346" label="0.174" source="rsbchile" target="elobservatodo" weight="0.174" />
+      <edge id="347" label="0.261" source="rsbchile" target="montecarlocl" weight="0.261" />
+      <edge id="348" label="0.304" source="rsbchile" target="miradiols" weight="0.304" />
+      <edge id="349" label="0.261" source="rsbchile" target="elquiglobal" weight="0.261" />
+      <edge id="350" label="0.319" source="montecarlocl" target="elobservatodo" weight="0.319" />
+      <edge id="351" label="0.172" source="montecarlocl" target="rsbchile" weight="0.172" />
+      <edge id="352" label="0.043" source="montecarlocl" target="tvnredcoquimbo" weight="0.043" />
+      <edge id="353" label="0.034" source="montecarlocl" target="adnradiochile" weight="0.034" />
+      <edge id="354" label="0.034" source="montecarlocl" target="dfinanciero" weight="0.034" />
+      <edge id="355" label="0.216" source="montecarlocl" target="miradiols" weight="0.216" />
+      <edge id="356" label="0.034" source="montecarlocl" target="elovallino" weight="0.034" />
+      <edge id="357" label="0.06" source="montecarlocl" target="radio_mistral" weight="0.06" />
+      <edge id="358" label="0.086" source="montecarlocl" target="eldia_cl" weight="0.086" />
+      <edge id="359" label="1.0" source="elqhaydecierto" target="elobservatodo" weight="1.0" />
+      <edge id="360" label="1.0" source="elrepuertero" target="elobservatodo" weight="1.0" />
+      <edge id="361" label="1.0" source="elamaule" target="elobservatodo" weight="1.0" />
+      <edge id="362" label="1.0" source="elrancahuaso" target="elobservatodo" weight="1.0" />
+      <edge id="363" label="0.733" source="elmartutino" target="elobservatodo" weight="0.733" />
+      <edge id="364" label="0.267" source="elmartutino" target="radiovalparaiso" weight="0.267" />
+      <edge id="365" label="1.0" source="elconcecuente" target="elobservatodo" weight="1.0" />
+      <edge id="366" label="0.734" source="infinitafm" target="meganoticiascl" weight="0.734" />
+      <edge id="367" label="0.266" source="infinitafm" target="megapluscl" weight="0.266" />
+      <edge id="368" label="0.798" source="meganoticiascl" target="infinitafm" weight="0.798" />
+      <edge id="369" label="0.202" source="meganoticiascl" target="megapluscl" weight="0.202" />
+      <edge id="370" label="1.0" source="diarioafta" target="cdf_cl" weight="1.0" />
+      <edge id="371" label="1.0" source="laestrellavalpo" target="mercuriovalpo" weight="1.0" />
+      <edge id="372" label="0.444" source="laestrelladeqta" target="mercuriovalpo" weight="0.444" />
+      <edge id="373" label="0.556" source="laestrelladeqta" target="laestrellavalpo" weight="0.556" />
+      <edge id="374" label="1.0" source="mercuriovalpo" target="laestrellavalpo" weight="1.0" />
+      <edge id="375" label="0.374" source="radioquellon" target="cooperativa" weight="0.374" />
+      <edge id="376" label="0.626" source="radioquellon" target="soychiloe" weight="0.626" />
+      <edge id="377" label="1.0" source="vozdelacosta" target="inettvdigital" weight="1.0" />
+      <edge id="378" label="0.233" source="inettvdigital" target="biobio" weight="0.233" />
+      <edge id="379" label="0.5" source="inettvdigital" target="radioquellon" weight="0.5" />
+      <edge id="380" label="0.267" source="inettvdigital" target="radiosago" weight="0.267" />
+      <edge id="381" label="1.0" source="soyosorno" target="soypuertomontt" weight="1.0" />
+      <edge id="382" label="0.034" source="soypuertomontt" target="soyvalparaiso" weight="0.034" />
+      <edge id="383" label="0.186" source="soypuertomontt" target="soychiloe" weight="0.186" />
+      <edge id="384" label="0.78" source="soypuertomontt" target="soyosorno" weight="0.78" />
+      <edge id="385" label="0.02" source="portalesdevalpo" target="24horastvn" weight="0.02" />
+      <edge id="386" label="0.025" source="portalesdevalpo" target="elmartutino" weight="0.025" />
+      <edge id="387" label="0.19" source="portalesdevalpo" target="radio_festival" weight="0.19" />
+      <edge id="388" label="0.06" source="portalesdevalpo" target="mercuriovalpo" weight="0.06" />
+      <edge id="389" label="0.055" source="portalesdevalpo" target="ucvradio" weight="0.055" />
+      <edge id="390" label="0.085" source="portalesdevalpo" target="biobio" weight="0.085" />
+      <edge id="391" label="0.025" source="portalesdevalpo" target="adnradiochile" weight="0.025" />
+      <edge id="392" label="0.02" source="portalesdevalpo" target="laestrellavalpo" weight="0.02" />
+      <edge id="393" label="0.445" source="portalesdevalpo" target="radioportales" weight="0.445" />
+      <edge id="394" label="0.055" source="portalesdevalpo" target="radiovalparaiso" weight="0.055" />
+      <edge id="395" label="0.02" source="portalesdevalpo" target="emol" weight="0.02" />
+      <edge id="396" label="1.0" source="radioportales" target="portalesdevalpo" weight="1.0" />
+      <edge id="397" label="0.052" source="rnuevomundo" target="elmostrador" weight="0.052" />
+      <edge id="398" label="0.131" source="rnuevomundo" target="interferenciacl" weight="0.131" />
+      <edge id="399" label="0.031" source="rnuevomundo" target="latercera" weight="0.031" />
+      <edge id="400" label="0.052" source="rnuevomundo" target="thecliniccl" weight="0.052" />
+      <edge id="401" label="0.173" source="rnuevomundo" target="eldesconcierto" weight="0.173" />
+      <edge id="402" label="0.038" source="rnuevomundo" target="el_ciudadano" weight="0.038" />
+      <edge id="403" label="0.048" source="rnuevomundo" target="ciper" weight="0.048" />
+      <edge id="404" label="0.208" source="rnuevomundo" target="cronica_digital" weight="0.208" />
+      <edge id="405" label="0.017" source="rnuevomundo" target="cambio21cl" weight="0.017" />
+      <edge id="406" label="0.249" source="rnuevomundo" target="elsiglochile" weight="0.249" />
+      <edge id="407" label="1.0" source="cronica_digital" target="rnuevomundo" weight="1.0" />
+      <edge id="408" label="1.0" source="soycalamacl" target="soyantofagasta" weight="1.0" />
+      <edge id="409" label="0.075" source="soyantofagasta" target="soyvalparaiso" weight="0.075" />
+      <edge id="410" label="0.811" source="soyantofagasta" target="soycalamacl" weight="0.811" />
+      <edge id="411" label="0.113" source="soyantofagasta" target="soyiquique" weight="0.113" />
+      <edge id="412" label="1.0" source="mercurioafta" target="soyantofagasta" weight="1.0" />
+      <edge id="413" label="1.0" source="soytemuco" target="soyvalparaiso" weight="1.0" />
+      <edge id="414" label="1.0" source="soyvalparaiso" target="soysanantonio" weight="1.0" />
+      <edge id="415" label="1.0" source="soyiquique" target="soyvalparaiso" weight="1.0" />
+      <edge id="416" label="1.0" source="soysanantonio" target="soyvalparaiso" weight="1.0" />
+      <edge id="417" label="1.0" source="latercera" target="pulso_tw" weight="1.0" />
+      <edge id="418" label="1.0" source="radiomariachile" target="latercera" weight="1.0" />
+      <edge id="419" label="1.0" source="radioduna" target="latercera" weight="1.0" />
+      <edge id="420" label="1.0" source="diarioenlalinea" target="radiouantof" weight="1.0" />
+      <edge id="421" label="0.5" source="radiouantof" target="latercera" weight="0.5" />
+      <edge id="422" label="0.5" source="radiouantof" target="region2cl" weight="0.5" />
+      <edge id="423" label="1.0" source="radiosolchile" target="antofagastatv" weight="1.0" />
+      <edge id="424" label="1.0" source="canal95chile" target="antofagastatv" weight="1.0" />
+      <edge id="425" label="1.0" source="region2cl" target="antofagastatv" weight="1.0" />
+      <edge id="426" label="1.0" source="pautalibrelared" target="laredtv" weight="1.0" />
+      <edge id="427" label="0.616" source="laredtv" target="mentiraslared" weight="0.616" />
+      <edge id="428" label="0.048" source="laredtv" target="publimetrochile" weight="0.048" />
+      <edge id="429" label="0.296" source="laredtv" target="pautalibrelared" weight="0.296" />
+      <edge id="430" label="0.04" source="laredtv" target="lacuarta" weight="0.04" />
+      <edge id="431" label="1.0" source="ciper" target="mentiraslared" weight="1.0" />
+      <edge id="432" label="1.0" source="mentiraslared" target="laredtv" weight="1.0" />
+      <edge id="433" label="0.286" source="soyconcepcion" target="soyvalparaiso" weight="0.286" />
+      <edge id="434" label="0.714" source="soyconcepcion" target="soychillan" weight="0.714" />
+      <edge id="435" label="1.0" source="radiocorazonfm" target="radioactivafm" weight="1.0" />
+      <edge id="436" label="1.0" source="radioactivafm" target="radiocorazonfm" weight="1.0" />
+      <edge id="437" label="1.0" source="el_ciudadano" target="radiokurruf" weight="1.0" />
+      <edge id="438" label="1.0" source="rsumen" target="radiokurruf" weight="1.0" />
+      <edge id="439" label="1.0" source="radioelbosque" target="el_ciudadano" weight="1.0" />
+      <edge id="440" label="0.308" source="radiokurruf" target="el_ciudadano" weight="0.308" />
+      <edge id="441" label="0.692" source="radiokurruf" target="rsumen" weight="0.692" />
+      <edge id="442" label="0.993" source="cnnchile" target="chvnoticias" weight="0.993" />
+      <edge id="443" label="0.007" source="cnnchile" target="cdf_cl" weight="0.007" />
+      <edge id="444" label="0.993" source="chvnoticias" target="cnnchile" weight="0.993" />
+      <edge id="445" label="0.007" source="chvnoticias" target="cdf_cl" weight="0.007" />
+      <edge id="446" label="1.0" source="unapcl" target="laestrellaiqq" weight="1.0" />
+      <edge id="447" label="1.0" source="campustvhd" target="unapcl" weight="1.0" />
+      <edge id="448" label="1.0" source="radiolibraynexo" target="canalvtvcl" weight="1.0" />
+      <edge id="449" label="1.0" source="canalvtvcl" target="aconcaguaradio" weight="1.0" />
+      <edge id="450" label="0.208" source="aconcaguanews" target="biobio" weight="0.208" />
+      <edge id="451" label="0.25" source="aconcaguanews" target="putaendoinforma" weight="0.25" />
+      <edge id="452" label="0.542" source="aconcaguanews" target="aconcaguaradio" weight="0.542" />
+      <edge id="453" label="1.0" source="putaendoinforma" target="aconcaguaradio" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>
